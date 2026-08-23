@@ -14,6 +14,10 @@ This repository contains my submission for the AI/ML Trainee Assignment.
 
 [LeetCode - Manojkumar004](https://leetcode.com/u/Manojkumar004/)
 
+## GitHub Profile
+
+[GitHub - Manoj-1110](https://github.com/Manoj-1110)
+
 ## Problem Statement - Assignment 2
 
 The original submission (PDF) along with problem statement 2 is on Google Drive: https://drive.google.com/file/d/1KgB6Cbuov2rLDxG6xpkZLyYoKouTD0Gz/view?usp=drive_link
